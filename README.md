@@ -1,10 +1,10 @@
 # Netflix Subscription Conjoint Analysis
 
-This repository contains a hypothetical conjoint analysis study on Netflix subscription plans. The data is based on a forced-choice survey where respondents evaluated different subscription plans based on several attributes.
+This repository contains a hypothetical conjoint analysis study on Netflix subscription plans. The data is based on a forced-choice survey where respondents evaluated different subscription plans based on several attributes. Respondents were shown two hypothetical plans and had to select the preferable one.
 
 ## Project Overview
 
-This analysis was completed as part of a bootcamp project to explore customer preferences for Netflix subscription plans. The goal was to understand how various features impact customer satisfaction and to identify the most valued attributes in a subscription plan.
+This analysis was completed as part of a bootcamp project created by Diogo Resende to gain experience using analytical tools in python. The goal was to understand how various features impact customer satisfaction and to identify the most valued attributes in a subscription plan.
 
 ## Survey Attributes
 
