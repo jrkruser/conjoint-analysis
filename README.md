@@ -26,6 +26,42 @@ The survey included the following attributes:
 
 The dataset represents fictional customer preferences collected through a forced-choice survey. The analysis includes calculating part-worth utilities for each attribute level to understand the impact of different features on customer satisfaction.
 
+## Results
+
+The analysis provided insights into customer preferences for Netflix subscription features based on the survey responses.
+
+### Key Findings
+
+1. **Number of Accounts**: 
+   - The most important feature influencing customer decisions was the number of accounts. Customers valued the flexibility of having multiple accounts under one subscription.
+
+2. **Price**: 
+   - Price was the second most significant factor. Customers showed a strong preference for lower-priced plans, with significant negative impact observed for higher-priced plans.
+
+
+3. **Extra Content and Ads**:
+   - Content offerings such as 'HBO' and 'Marvel' were positively received, while less popular content, such as 'Soccer', had a negative impact.
+   - Plans with no ads were strongly preferred, while ads shown per show had a significantly negative impact.
+
+### Interaction Effects Analysis
+
+To further explore customer preferences, an interaction term analysis was conducted. This revealed:
+
+1. **Disney & One Ad per Day**:
+   - The combination of Disney content with one ad per day had a large positive impact on customer satisfaction.
+
+2. **HBO & One Ad per Day**:
+   - Similarly, HBO combined with one ad per day was also a significant positive driver of customer preference.
+
+
+
+These interactions suggest that while ads generally have a negative impact, pairing certain high-demand content with a limited number of ads can mitigate this effect and even lead to positive customer responses.
+
+### Conclusion
+
+This analysis highlights the critical role of the number of accounts and pricing in customer decision-making for Netflix subscriptions. The results can be used to optimize future subscription plans by balancing content offerings, ad frequency, and pricing to maximize customer satisfaction.
+
+
 ## Repository Contents
 
 - `netflix_conjoint_analysis.ipynb`: The Jupyter Notebook containing the analysis.
